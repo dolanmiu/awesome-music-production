@@ -11,6 +11,7 @@
 - Sausage Fattener
 - Kickstart
 - KICK 2
+- Nectar 2
 
 # Mixing and Mastering
 
@@ -31,3 +32,6 @@
 - Spitfire Audio HARP
 - SC Music Box
 - 8dio Lacrimosa
+- Cajon Free
+- Orange Tree Samples
+- Steel Strings
